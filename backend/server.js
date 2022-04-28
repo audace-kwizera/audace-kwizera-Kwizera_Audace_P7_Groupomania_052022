@@ -6,6 +6,10 @@ require("dotenv").config();
 const app = express();
 /** Création du port serveur */
 const port = 3000;
+/** Appel de mysql */
+const mysql = require('mysql');
+
+
 
 app.get('/', (req, res) => res.send('Hello  World'));
 

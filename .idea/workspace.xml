@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="6cc78196-1d4e-4442-8ea5-161cb974cfe9" name="Changes" comment="install nodemon bodyparser express dotenv">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="6cc78196-1d4e-4442-8ea5-161cb974cfe9" name="Changes" comment="install mysql and server">
       <change beforePath="$PROJECT_DIR$/backend/server.js" beforeDir="false" afterPath="$PROJECT_DIR$/backend/server.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -43,7 +42,7 @@
       <workItem from="1651177028501" duration="129000" />
       <workItem from="1651177191059" duration="175000" />
       <workItem from="1651177398867" duration="123000" />
-      <workItem from="1651177550431" duration="857000" />
+      <workItem from="1651177550431" duration="971000" />
     </task>
     <task id="LOCAL-00001" summary="node install">
       <created>1651175724333</created>
@@ -87,7 +86,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651177901086</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="install mysql and server">
+      <created>1651178499251</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1651178499251</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,6 +116,7 @@
     <MESSAGE value="install mysql" />
     <MESSAGE value="init" />
     <MESSAGE value="install nodemon bodyparser express dotenv" />
-    <option name="LAST_COMMIT_MESSAGE" value="install nodemon bodyparser express dotenv" />
+    <MESSAGE value="install mysql and server" />
+    <option name="LAST_COMMIT_MESSAGE" value="install mysql and server" />
   </component>
 </project>
